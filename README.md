@@ -1,4 +1,4 @@
-# Smoke-detection
+# IoT-Enabled Smoke Detection System Using Arduino
 
 **Aim**
 
